@@ -1,6 +1,6 @@
-# gbtRecipes A Recipe Generator For Any Dish You Can Think Of  📖
+# gptRecipes A Recipe Generator For Any Dish You Can Think Of  📖
 
-**gbtRecipes** is a sample app that queries the OpenAI API to generate any recipe you want via the `gpt-3.5-turbo-0613` model. 
+**gptRecipes** is a sample app that queries the OpenAI API to generate any recipe you want via the `gpt-3.5-turbo-0613` model. 
 
 You'll have to provide your own Api Key as I'm not made of Money 💰
 <br>
@@ -69,7 +69,7 @@ curl --location 'https://api.openai.com/v1/chat/completions' \
 
 ## App Store Download📱
 <p align="left">
-<a href="https://play.google.com/store/apps/details?id=com.davidz.gbtrecipes">
+<a href="https://play.google.com/store/apps/details?id=com.davidz.gptrecipes">
   <img src="github_assets/google_play.svg" width="25%">
 </a>
 <br>
