@@ -69,7 +69,7 @@ curl --location 'https://api.openai.com/v1/chat/completions' \
 
 ## App Store Download📱
 <p align="left">
-<a href="https://play.google.com/store/apps/details?id=com.davidz.gptrecipes">
+<a href="https://play.google.com/store/apps/details?id=com.davidz.gbtrecipes">
   <img src="github_assets/google_play.svg" width="25%">
 </a>
 <br>
